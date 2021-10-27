@@ -1,3 +1,6 @@
+---
+title: Secure LC-MS Instrument Connectivity
+---
 # Secure LC-MS Instrument Connectivity
 This project describes a secure XML-based format
 for data exchange between LIMS/ELN software and LC-MS

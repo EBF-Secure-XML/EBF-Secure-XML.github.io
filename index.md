@@ -1,5 +1,5 @@
 ---
-title: Secure LC-MS Instrument Connectivity
+title: Secure Instrument Link
 ---
 # Secure LC-MS Instrument Connectivity
 This project describes a secure XML-based format

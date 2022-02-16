@@ -1,6 +1,4 @@
-----
-title:  History
-----
+## History
 
 Secure Instrument Link was created to improve the data 
 integrity in regulated laboratories. In these environments,

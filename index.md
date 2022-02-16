@@ -2,10 +2,9 @@
 title: Secure Instrument Link
 ---
 # Secure Instrument Link
-This project describes a secure XML-based format
-for data exchange between LIMS/ELN software and LC-MS
-instruments. The project originates in regulated
-bioanalysis, but is open to other areas as well. 
+Secure Instrument link is a secure mechanism to integrate analytical instruments with LIMS and ELN software.
+
+It specifies an XML-based format for data exchange between LIMS/ELN software and LC-MS instruments. The project originates in regulated bioanalysis, but is open to other areas as well. [Learn more about the history](history).
 
 Secure Instrument Link offers a secure exchange mechanism 
 for two main interactions:

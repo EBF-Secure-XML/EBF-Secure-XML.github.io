@@ -5,7 +5,7 @@ integrity in regulated laboratories. In these environments,
 instruments are frequently integrated with LIMS and ELN 
 systems. If practices such as GLP (Good Laboratory
 Practices) or GMP (Good Manufacturing Processes) are
-employed, data integrity is of utmuse importance and
+employed, data integrity is of utmost importance and
 frequently inspected and enforced by regulatory oversight
 bodies.
 

@@ -10,3 +10,5 @@ We are grateful to the contributions of these individuals, in alphabetical order
 * Blair James, SCIEX
 * Neil J. Loftus, Shimadzu MS/BU
 * Burkhard Schaefer, ASTM E13.15 AnIML Task Group Lead
+* Mark Stutzbach, Thermo Fisher Scientific
+* John Warrander, Shimadzu MS/BU

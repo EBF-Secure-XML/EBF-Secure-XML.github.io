@@ -1,13 +1,17 @@
 ## Benefits
 
 ### Data security is significantly increased
-* The current data transfer cycle requires manual and time-consuming quality-control steps to mitigate the DI risks. In this proposal, the goal is to negate quality control steps and meet the need of health authorities DI expectations.
+The traditional data transfer cycle requires manual and time-consuming quality-control steps to ensure correctness and completeness of the transferred data.
+
+Secure Instrument Link automates this review step through verification of digital signatures. The goal is to reduce the number of quality control steps and still meet the need of health authorities data integrity expectations.
 
 ### Widely adopted technology and vendor neutrality 
-* The technology is open for all vendors to use and is intended as a generic solution. 
+* The technology is open to all vendors to use and is intended as a generic solution. 
 * No bespoke interfaces are required, reducing implementation and validation cost.
-* The key point is that if anyone tampers or changes the sequence or export file the change is recorded. All tampered files are detected.
+* If anyone tampers with the worklist or result file, the change can be detected and recorded. 
+* Secure Instrument Link builds on existing standards, allowing for quick implementation using existing tools
 
 ### Near-zero impact on the current user experience 
-The changes are all designed to work ‘under the hood’ and will have a zero impact on current user workflows/standard operating procedures. 
-In this proposal the fundamental point is the data security is managed by the software and is not exposed to the user. 
+The changes are all designed to work ‘under the hood’ and will have a low impact on current user workflows/standard operating procedures.
+
+When implemented properly, data security is managed by the software and is not exposed to the user. 

@@ -31,4 +31,4 @@ is designed to address data integrity gaps and to avoid
 further forced measures and process modifications due to 
 inspection findings.
 
-See our [publications](publications).
+See our [publications](publications) and meet our [contributors](contributors).

@@ -24,4 +24,11 @@ To mitigate DI risks and negate the need for manual and time-consuming quality-c
 The team discussed the approach more broadly, leading to
 a fruitful collaborartion with the [American Association of Pharmaceutical Scientists (AAPS)](https://www.aaps.org).
 
-The approach is based on the open standard AnIML data format, secured via widely used Digital Signatures with a near zero impact on user workflows. This solution is designed to make a high impact on DI gaps and avoid further forced measures and process modifications due to inspection findings.
+The approach is based on the open standard AnIML data 
+format, secured via widely used [digital signatures](signatures)
+with a near zero impact on user workflows. This solution 
+is designed to make a high impact on DI gaps and avoid 
+further forced measures and process modifications due to 
+inspection findings.
+
+See our [publications](publications).

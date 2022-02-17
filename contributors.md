@@ -11,4 +11,7 @@ We are grateful to the contributions of these individuals, in alphabetical order
 * Neil J. Loftus, Shimadzu MS/BU
 * Burkhard Schaefer, ASTM E13.15 AnIML Task Group Lead
 * Mark Stutzbach, Thermo Fisher Scientific
+* Philip Timmerman, EBF
 * John Warrander, Shimadzu MS/BU
+
+We are also grateful for the fruitful collaboration with the EBF E-Environment Community, the AAPS Data Storage Group and the ASTM AnIML community.

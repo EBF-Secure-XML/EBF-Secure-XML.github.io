@@ -13,6 +13,9 @@ for two main interactions:
 
 The exchange is secured through [digital signatures](signatures).
 
+### Publications
+Check out the [publications](publications) made by our [contributors](contributors).
+
 ### Documentation and examples
 See the [Github repository](https://github.com/EBF-Secure-XML/examples) for documentation and example files.
 

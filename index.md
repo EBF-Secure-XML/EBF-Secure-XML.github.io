@@ -1,5 +1,5 @@
 ---
-title: SOFT Secure Instrument Link
+title: SOFT Instrument Link
 ---
 
 **[Home](index)** | [Benefits](benefits) | [Digital Signatures](signatures)  | [History](history) | [Publications](publications) | [Contributors](contributors) 

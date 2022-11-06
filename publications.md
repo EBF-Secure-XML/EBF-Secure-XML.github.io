@@ -1,3 +1,5 @@
+[Benefits](benefits) | [Digital Signatures](signatures)  | [History](history) | [Publications](publications) | [Contributors](contributors) 
+
 ## Publications and Presentations
 
 Here is a collection of conference papers, posters and articles in the context of this initiative.

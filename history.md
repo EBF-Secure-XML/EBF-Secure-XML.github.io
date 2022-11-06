@@ -1,6 +1,8 @@
+[Benefits](benefits) | [Digital Signatures](signatures)  | [History](history) | [Publications](publications) | [Contributors](contributors) 
+
 ## History
 
-Secure Instrument Link was created to improve the data 
+SOFT Instrument Link was created to improve the data 
 integrity in regulated laboratories. In these environments,
 instruments are frequently integrated with LIMS and ELN 
 systems. If practices such as GLP (Good Laboratory

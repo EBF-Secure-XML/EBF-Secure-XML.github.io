@@ -1,12 +1,15 @@
 ---
-title: Secure Instrument Link
+title: SOFT Secure Instrument Link
 ---
-# Secure Instrument Link
-Secure Instrument Link is a secure mechanism to integrate analytical instruments with LIMS and ELN software.
+# SOFT Instrument Link
 
-It specifies an XML-based format for data exchange between LIMS/ELN software and LC-MS instruments. The project originates in regulated bioanalysis, but is open to other areas as well. [Learn more about the history](history).
+[Benefits](benefits) | [Digital Signatures](signatures)  | [History](history) | [Publications](publications) | [Contributors](contributors) 
 
-Secure Instrument Link offers a secure exchange mechanism 
+SOFT Instrument Link is a secure mechanism to integrate analytical instruments with LIMS and ELN software. **SOFT** stands for **S**ecure **O**pen-standard **F**ile Transfer.
+
+It specifies a secure XML-based format for data exchange between LIMS/ELN software and LC-MS instruments, built on the AnIML format. The project originates in regulated bioanalysis, but is open to other areas as well. [Learn more about the history](history).
+
+SOFT offers a secure exchange mechanism 
 for two main interactions:
 * Worklist submission (LIMS to instrument)
 * Result reporting (Instrument to LIMS)
@@ -24,7 +27,7 @@ The project team sees the following opportunities
 for future expansion of this format:
 
 #### Plate reader and ligand binding assay support
-Currently, we only support LC-MS instruments.
+Currently, SOFT supports LC-MS instruments.
 Support for microplate readers and ligand binding assays 
 is under consideration, since they play a 
 significant role in the bioanalysis domain.

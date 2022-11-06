@@ -1,7 +1,6 @@
 ---
 title: SOFT Secure Instrument Link
 ---
-# SOFT Instrument Link
 
 [Benefits](benefits) | [Digital Signatures](signatures)  | [History](history) | [Publications](publications) | [Contributors](contributors) 
 

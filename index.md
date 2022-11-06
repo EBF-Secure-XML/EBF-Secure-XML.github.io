@@ -2,7 +2,7 @@
 title: SOFT Secure Instrument Link
 ---
 
-[Benefits](benefits) | [Digital Signatures](signatures)  | [History](history) | [Publications](publications) | [Contributors](contributors) 
+**[Home](index)** | [Benefits](benefits) | [Digital Signatures](signatures)  | [History](history) | [Publications](publications) | [Contributors](contributors) 
 
 SOFT Instrument Link is a secure mechanism to integrate analytical instruments with LIMS and ELN software. **SOFT** stands for **S**ecure **O**pen-standard **F**ile Transfer.
 

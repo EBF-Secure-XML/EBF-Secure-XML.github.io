@@ -4,7 +4,7 @@
 
 Here is a collection of conference papers, posters and articles in the context of this initiative.
 
-- _The product pathway: a vendor-neutral secure data transfer process between LIMS/ELN and LC- MS/MS instruments for bioanalysis_ by Gidion de Boer, Tim Blacker, Burkhard Schaefer, Neil Loftus, presented at 14th EBF Open Symposium in Nov 2022 (Barcelona, Spain)
+- _The product pathway: a vendor-neutral secure data transfer process between LIMS/ELN and LC- MS/MS instruments for bioanalysis_ by Gidion de Boer, Burkhard Schaefer, Neil Loftus, presented at 14th EBF Open Symposium in Nov 2022 (Barcelona, Spain)
 - _Solution towards a vendor-neutral and secure transfer of data between LIMS and Instruments_ by Gidion de Boer, Tim Blacker, Burkhard Schaefer, Neil Loftus, presented at 14th EBF Open Symposium in Nov 2021 (Barcelona, Spain)
 - [_Solution towards a vendor-neutral secure data transfer process between LIMS/ELN and LC-MS/MS instruments for bioanalysis_](assets/downloads/ASMS%202021%20-%20Instrument%20Link%20Poster.pdf) by Mark E Arnold; Tim Blacker; Gidion De Boer; Scott Davies; Blair James; Neil J Loftus; Burkhard Schaefer, poster presented at ASMS 2021
 - AAPS Land o Lakes 2021 session

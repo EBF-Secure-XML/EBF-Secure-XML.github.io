@@ -1,4 +1,4 @@
-[Home](index) | [Benefits](benefits) | [Digital Signatures](signatures)  | **[History](history)** | [Publications](publications) | [Contributors](contributors) 
+[Home](index) | [Benefits](benefits) | [Digital Signatures](signatures)  | **[History](history)** | [Publications](publications) | [Contributors](contributors) | [Contact](contact)
 
 ## History
 
